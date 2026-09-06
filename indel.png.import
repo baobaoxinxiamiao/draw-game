@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dmfupa7ppm6sw"
-path="res://.godot/imported/indel.png-6a769de64fc4715d1372abb502b53246.ctex"
+uid="uid://cpcxtl3lfj7hh"
+path="res://.godot/imported/indel.png-c3288c26724b9369e305ab459b4aec73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://draw_online/indel.png"
-dest_files=["res://.godot/imported/indel.png-6a769de64fc4715d1372abb502b53246.ctex"]
+source_file="res://draw_online1_1/indel.png"
+dest_files=["res://.godot/imported/indel.png-c3288c26724b9369e305ab459b4aec73.ctex"]
 
 [params]
 
